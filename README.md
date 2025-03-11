@@ -66,12 +66,13 @@
 <details align="left">
   <summary><h2><b>Github Stats</b></h2></summary>
   <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Omuny&column=4&theme=tokyonight&margin-w=3&margin-h=3&no-frame=true" alt="Profile trophy" align="center" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Omuny&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&line_height=30&locale=en" alt="Git stats" align="center" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Omuny&theme=tokyonight&margin-w=3&margin-h=3&no-frame=true" alt="Profile trophy" align="center" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Omuny&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&line_height=25&locale=en" alt="Git stats" align="center" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omuny&hide_border=true&show_icons=true&theme=tokyonight&locale=en&layout=compact"   alt="Top langs" align="center" />
   </div>
 
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omuny&hide_border=true&show_icons=true&theme=tokyonight&locale=en&layout=compact"   alt="Top langs" align="center" />
+    
   </div>
 </details> 
 
