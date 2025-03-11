@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=3A7099&center=true&width=700&lines=Hello%2C+There!+%F0%9F%91%8B;This+is+Ali!;Nice+to+meet+you+here!;I+hope+you+find+something+interesting!" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=3A7099&center=true&width=700&lines=Hello%2C+There!+%F0%9F%91%8B;This+is+Ali!;Nice+to+meet+you+here!;I+hope+you+find+something+interesting!" alt="Typing SVG" align="center" />
   </a>
 </h1>
 
@@ -89,3 +89,8 @@
   <img src="https://komarev.com/ghpvc/?username=Omuny&label=Profile%20views&color=0c7d34&style=flat" alt="Profile views" align="center" />
   <img src="https://badges.pufler.dev/visits/Omuny/Omuny?color=black&logo=github&style=flat" alt="Visits" align="center" />
 </div>  
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer" alt="Wave render" align="center" />
+</p>
