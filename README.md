@@ -4,22 +4,22 @@
 </h1>
 
 
-### <div align="center">I'm Ali, a full-time backend developer from Russia 👨‍💻 </div>  
+### <div align="center">Я Али, бэкенд-разработчик на полную ставку из России 👨‍💻 </div>  
   
 
-- 🎮 I’m currently working on my small game  
+- 🎮 В настоящее время я работаю над разработкой сайта на Java Spring Boot
   
 
-- 🌱 I'm constantly striving to learn something new  
+- 🌱 Я постоянно стремлюсь научиться чему-то новому
   
 
-- ❓ Ask me to do something and if it's new to me, I'll study and do it  
+- ❓ Попросите меня что-нибудь сделать, и если это будет для меня в новинку, я изучу и сделаю это
   
 
-- ♟️ Fact about me: I really love chess and play it very well  
+- ♟️ Факт обо мне: я реально люблю шахматы и очень хорошо в них играю
   
 
-## My Skill Set  
+## Мой набор навыков
 <table><tr><td valign="top" width="33%">
 
 
@@ -59,7 +59,7 @@
 </td></tr></table>  
 
 
-## Connect with me  
+## Связь со мной
 <div align="center">
   <a href="https://github.com/Omuny" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=Github style="margin-bottom: 5px;"/></a>
@@ -73,7 +73,7 @@
 
 
 <details align="left">
-  <summary><h2><b>Github Stats</b></h2></summary>
+  <summary><h2><b>Статистика github</b></h2></summary>
   <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Omuny&theme=tokyonight&margin-w=3&margin-h=3&no-frame=true" alt="Profile trophy" align="center" />
   </div>
