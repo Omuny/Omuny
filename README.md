@@ -76,7 +76,7 @@
 </div> 
 
 
-<details align="left">
+<details align="left" open>
   <summary><h2><b>Статистика github</b></h2></summary>
   <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Omuny&theme=tokyonight&margin-w=3&margin-h=3&no-frame=true" alt="Profile trophy" align="center" />
