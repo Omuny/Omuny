@@ -20,7 +20,7 @@
   
 
 ## Мой набор навыков
-<table><tr><td valign="top" width="33%">
+<table align="center"><tr><td valign="top" width="33%">
 
 
 ### Frontend  
@@ -79,12 +79,12 @@
 <details align="left" open>
   <summary><h2><b>Статистика github</b></h2></summary>
   <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Omuny&theme=tokyonight&margin-w=3&margin-h=3&no-frame=true" alt="Profile trophy" align="center" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Omuny&theme=radical&margin-w=3&margin-h=3&no-frame=true" alt="Profile trophy" align="center" />
   </div>
   <br>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Omuny&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&line_height=25&locale=en" alt="Git stats" align="center" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omuny&hide_border=true&show_icons=true&theme=tokyonight&locale=en&layout=compact"   alt="Top langs" align="center" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Omuny&show_icons=true&count_private=true&hide_border=true&theme=radical&line_height=25&locale=en" alt="Git stats" align="center" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omuny&hide_border=true&show_icons=true&theme=radical&locale=en&layout=compact"   alt="Top langs" align="center" />
   </div>
 </details> 
 
