@@ -7,7 +7,7 @@
 ### <div align="center">Я Али, бэкенд-разработчик на полную ставку из России 👨‍💻 </div>  
   
 
-- 🎮 В настоящее время я работаю над разработкой сайта на Java Spring Boot
+- 🎮 В настоящее время я работаю над разработкой небольшой игры на Java
   
 
 - 🌱 Я постоянно стремлюсь научиться чему-то новому
@@ -91,7 +91,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Omuny&label=Profile%20views&color=0c7d34&style=flat" alt="Profile views" align="center" />
-  <img src="https://badges.pufler.dev/visits/Omuny/Omuny?color=black&logo=github&style=flat" alt="Visits" align="center" />
+  <!--<img src="https://badges.pufler.dev/visits/Omuny/Omuny?color=black&logo=github&style=flat" alt="Visits" align="center" /> -->
 </div>  
 
 
